@@ -1,0 +1,12 @@
+"patch"
+{
+	"include" "materials/models/player/downloadswag2/tm_swag_shared.vmt"
+	"insert"
+	{	
+	"$baseTexture" "models\player\downloadswag2\tm_swag_upperbody_variantB"
+	"$bumpmap" "models\player\downloadswag2\tm_swag_upperbody_variantB_normal"
+			
+	"$phongexponenttexture" "models\player\downloadswag2\tm_swag_upperbody_variantB_exponent"
+	"$rimmask" "1"
+	}	
+}

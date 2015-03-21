@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/mgdownloadswag/ctswaggot/swag_lowerbody"
+	"$bumpmap" "models/player/mgdownloadswag/ctswaggot/swag_lowerbody_normal"
+	
+	"$phong" "1"
+	"$phongBoost" "6"
+	"$phongalbedoBoost" "150"
+	"$phongFresnelRanges" "[.2 .2 1]"
+	"$phongdisablehalflambert" "1"
+	
+	"$phongexponenttexture" "models/player/mgdownloadswag/ctswaggot/swag_lowerbody_exponent"
+	"$rimmask" "1"
+	"$rimlight" "1"
+	"$rimlightexponent" "5"
+	"$rimlightboost" "1.0"
+	"$phongalbedotint" "1"
+}

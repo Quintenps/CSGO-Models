@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/DownloadSwagV2/ct_swag_glass"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[0.4 0.6 0.7]"
+}

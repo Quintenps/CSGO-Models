@@ -1,0 +1,13 @@
+"patch"
+{
+	"include" "materials/models/player/downloadswag2/ctm_swag_shared.vmt"
+	"insert"
+	{	
+	"$baseTexture" "models\player\downloadswag2\ct_swag_upperbody"
+	"$bumpmap" "models\player\downloadswag2\ct_swag_upperbody_normal"
+		
+	"$phongexponenttexture" "models\player\downloadswag2\ct_swag_upperbody_exponent"
+	"$rimmask" "1"
+	
+	}	
+}

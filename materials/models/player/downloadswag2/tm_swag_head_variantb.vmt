@@ -1,0 +1,13 @@
+"patch"
+{
+	"include" "materials/models/player/downloadswag2/tm_swag_shared.vmt"
+	"insert"
+	{	
+	"$baseTexture" "models\player\downloadswag2\tm_swag_head_variantB"
+	"$bumpmap" "models\player\downloadswag2\tm_swag_head_variantB_normal"
+				
+	"$phongexponenttexture" "models\player\downloadswag2\tm_swag_head_variantb_exponent"
+	"$rimlight" "0"
+"$nodecal" 1
+	}	
+}
