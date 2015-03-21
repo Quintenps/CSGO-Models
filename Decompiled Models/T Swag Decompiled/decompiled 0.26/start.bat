@@ -1,0 +1,2 @@
+"D:\Program Files (x86)\Steam\steamapps\common\SourceSDK\bin\orangebox\bin\studiomdl.exe" -game "D:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo" -nop4 -nox360 "C:\Users\Jurre\Documents\models\T Swag\decompiled 0.26\tm_swag_variantb.qc"
+pause
