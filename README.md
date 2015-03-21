@@ -103,8 +103,7 @@ Add the following lines to the file and make sure you choose the right paths.
 pause
 ```
 
-*Path #1 is the studiomdl.exe which needs to be pulled from the offical SourceSDK. **NOT THE CS:GO SDK**
+*Path #1 is the studiomdl.exe which needs to be pulled from the offical SourceSDK.*  **NOT THE CS:GO SDK**
 
 *Path #2 is where all your extracted files are make sure you add the .qc too, It's very important since that's where all the info is stored.*
 
-**Free Software, Hell Yeah!**
